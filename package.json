@@ -1,5 +1,5 @@
 {
-  "name": "vue-js-loader-temp",
+  "name": "vue-js-loaders",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.5.34",
-    "vue-js-loader": "file:VueJS"
+    "vue-js-loaders": "^0.0.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",

@@ -66,7 +66,7 @@
 </template>
 
 <script setup>
-import Loader from 'vue-js-loader';
+import Loader from 'vue-js-loaders';
 
 defineProps({
     color: { type: String, default: '#FFFFFF' }
